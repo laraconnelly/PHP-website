@@ -1,0 +1,37 @@
+#administration ul {
+    list-style-type: none;
+    border-top: 1px #fff solid;
+    width: 600px;
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+#administration li {
+    /*margin-bottom: 10px;*/
+}
+
+#administration a {
+    display: inline-block;
+    width: 144.2px;
+    height: 40px;
+    margin-bottom: 5px;
+    padding-top: 19px;
+    text-align: center;
+    text-decoration: none;
+    font-family: Calibri, "Trebuchet MS", sans-serif;
+    font-size: 19px;
+    background-color: #0070C0;
+}
+
+#administration a:link {
+    color: #fff;
+}
+
+#administration a:visited {
+    color: #ff6;
+}
+
+#administration a:hover {
+    background-color: #00C0B0;
+}

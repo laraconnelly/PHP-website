@@ -1,0 +1,51 @@
+/*********************/
+/*Top Navigation Menu*/
+/*********************/
+#topNav ul, #topNav_admin ul {
+	list-style-type: none;
+	border-top: 1px #fff solid;
+	width: 1024px;
+	float: left;
+	background-color: #0070C0;
+}
+
+#topNav li, #topNav_admin li {
+	display: inline;
+}
+
+#topNav a, #topNav_admin a {
+	display: block;
+	float: left;
+	width: 168.6px;
+	height: 40px;
+	padding-top: 19px;
+	text-align: center;
+	text-decoration: none;
+	border-right: 1px ridge #606060;
+	border-left: 1px solid #909090;
+	font-family: Calibri, "Trebuchet MS", sans-serif;
+	font-size: 19px;
+}
+
+#topNav_admin a {
+    width: 144.2px;
+}
+
+#topNav a:link, #topNav_admin a:link {
+	color: #fff;
+}
+
+#topNav a:visited, #topNav_admin a:visited {
+	color: #ff6;
+}
+
+#topNav a:hover, #topNav_admin a:hover {
+	background-color: #00C0B0;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,53 @@
+
+footer {
+	clear: both;
+	background-color: #0070C0;
+	height: 40px;
+	margin-bottom: 20px;
+	font-family: Calibri, "Trebuchet MS", sans-serif;
+	color: #fff;
+}
+
+#footerNav {
+	float: left;
+}
+
+#footerNav ul {
+	list-style-type: none;
+}
+
+#footerNav li {
+	display: inline;
+}
+
+#footerNav li {
+	padding-left: 10px;
+}
+
+#footerNav a {
+	display: block;
+	float: left;
+	padding-top: 10px;
+	padding-left: 10px;
+	text-decoration: none;
+	font-family: Calibri, "Trebuchet MS", sans-serif;
+	font-size: 13px;	
+}
+
+#copyRight {
+	padding-left: 400px;
+	padding-top: 10px;
+	font-size: 13px;
+}
+
+#footerNav a:link {
+	color: #fff;
+}
+
+#footerNav a:visited {
+	color: #C0C0C0;
+}
+
+#footerNav a:hover {
+	color: #ff6;
+}

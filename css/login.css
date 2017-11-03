@@ -1,0 +1,44 @@
+/* Login */
+
+#login {
+    margin: 50px;
+    margin-top: 15px;
+}
+
+#failed p {
+    color: #ff0000;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+
+input:focus {
+    background-color: #C6D8F0;
+    outline: none;
+}
+
+#frmLogin {
+    width: 300px;
+    margin-left: 20px;
+}
+
+#frmLogin label {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 85%;
+    float: left;
+    width: 75px;
+    text-align: left;
+    padding-right: 5px;
+}
+
+#frmLogin input {
+    margin-bottom: 2px;
+}
+
+#submit {
+    margin-left: 80px;
+}

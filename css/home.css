@@ -1,0 +1,75 @@
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #D1E7EE;
+}
+
+#container {
+	width: 1024px;
+	margin: auto;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	color: #030303;
+	background-color: #fff;
+}
+
+#introText {
+	margin: 50px;
+	margin-top: 100px;
+	margin-bottom: 0px;
+}
+
+#introText p{
+	line-height: 15px;
+	text-align: justify;
+	font-size: 14px;	
+}
+
+#product_info {
+	margin: 50px;
+	margin-top: 30px;
+    margin-bottom: 0px;
+}
+
+#product_info p {
+	margin-bottom: 10px;
+	line-height: 15px;
+	text-align: justify;
+	font-size: 14px;
+}
+
+#product_description {
+	width: 500px;
+	float: left;
+}
+
+h2 {
+	font-size: 15px;
+	margin-bottom: 3px;
+}
+
+#grain_free {
+	width: 500px;
+	float: left;
+}
+
+#kitten_puppy {
+	padding-left: 50px;
+}
+
+#pets {
+    padding-left: 50px;
+}
+
+#all_natural {
+	width: 320px;
+	margin-left: 550px;
+	margin-top: 20px;
+	border: black solid 2px;
+	padding: 10px;
+}
+
+

@@ -1,0 +1,68 @@
+/* Subscribe */
+
+input:focus {
+    background-color: #C6D8F0;
+    outline: none;
+}
+
+legend {
+    color: #0070C0;
+    font-size: 125%;
+    margin-left: 10px;
+}
+
+#frmSubscribe fieldset {
+    border: #0070C0 3px solid;
+    padding-bottom: 5px;
+}
+
+#frmSubscribe {
+    width: 500px;
+    margin-left: 50px;
+}
+
+#frmSubscribe label {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 85%;
+    float: left;			/*set a width and float left, this will line up my text boxes*/
+    width: 200px;
+    text-align: right;
+    padding-right: 5px;
+}
+
+#frmSubscribe input {
+    margin-bottom: 2px;
+}
+
+#buttons {
+  margin-bottom: 20px;
+}
+
+#subscription_list {
+    margin: 50px;
+    margin-top: 15px;
+}
+
+#subscription_list p {
+    margin-bottom: 10px;
+}
+
+#subscription_table {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+#subscription_table {
+    border-collapse: collapse;
+    margin-bottom: 50px;
+}
+
+#subscription_table td {
+    border: 1px solid #999;
+    padding: 10px;
+}
+
+#subscription_table caption {
+    font-size: 25px;
+    text-align: left;
+}

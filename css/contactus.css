@@ -1,0 +1,96 @@
+/* Contact Us */
+
+h2 {
+    font-size: 25px;
+    margin-left: 15px;
+    padding-top: 70px;
+}
+
+input:focus, select:focus, textarea:focus {
+    background-color: #C6D8F0;
+    outline: none;
+}
+
+legend {
+    color: #0070C0;
+    font-size: 125%;
+    margin-left: 10px;
+}
+
+#contactInfo fieldset, #products fieldset, #question_text fieldset {
+    border: #0070C0 3px solid;
+    padding-bottom: 5px;
+}
+
+#frmContactUs label {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 85%;
+}
+
+#contactInfo {
+    width: 400px;
+    float: left;
+    margin-left: 20px;
+}
+
+#contactInfo label {
+    float: left;			/*set a width and float left, this will line up my text boxes*/
+    width: 200px;
+    text-align: right;
+    padding-right: 5px;
+}
+
+#contactInfo input {
+    margin-bottom: 2px;
+}
+
+#products {
+    width: 330px;
+    float: left;
+    margin-left: 30px;
+}
+
+#products label {
+    padding-left: 15px;
+}
+
+#products select {
+    margin-bottom: 30px;
+    margin-top: 20px;
+
+}
+
+#promo_newsletter, #promo_new_products {
+    margin-left: 5px;
+}
+
+#question_text {
+    clear: both;
+    margin-left: 20px;
+    width: 760px;
+}
+
+#question_text textarea {
+    margin: 10px;
+}
+
+#buttons {
+    margin: 20px;
+}
+
+.form_errors {
+    margin-left: 20px;
+    margin-bottom: 10px;
+    padding: 5px;
+    border: red solid 2px;
+    color: red;
+    width: 760px;
+}
+
+.form_errors li {
+    list-style-type: none;
+}
+
+#output li {
+    list-style-type: none;
+}
